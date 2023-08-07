@@ -1,0 +1,18 @@
+C:\Users\MY OFFICE\source\repos\WinFormsApp11\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.vbproj.AssemblyReference.cache
+C:\Users\MY OFFICE\source\repos\WinFormsApp11\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.Form1.resources
+C:\Users\MY OFFICE\source\repos\WinFormsApp11\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.Form2.resources
+C:\Users\MY OFFICE\source\repos\WinFormsApp11\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.vbproj.GenerateResource.cache
+C:\Users\MY OFFICE\source\repos\WinFormsApp11\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MY OFFICE\source\repos\WinFormsApp11\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.AssemblyInfoInputs.cache
+C:\Users\MY OFFICE\source\repos\WinFormsApp11\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.AssemblyInfo.vb
+C:\Users\MY OFFICE\source\repos\WinFormsApp11\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.vbproj.CoreCompileInputs.cache
+E:\PBD\WinFormsApp11\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.vbproj.AssemblyReference.cache
+E:\PBD\WinFormsApp11\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.Form1.resources
+E:\PBD\WinFormsApp11\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.Form2.resources
+E:\PBD\WinFormsApp11\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.Form3.resources
+E:\PBD\WinFormsApp11\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.Form4.resources
+E:\PBD\WinFormsApp11\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.vbproj.GenerateResource.cache
+E:\PBD\WinFormsApp11\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.GeneratedMSBuildEditorConfig.editorconfig
+E:\PBD\WinFormsApp11\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.AssemblyInfoInputs.cache
+E:\PBD\WinFormsApp11\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.AssemblyInfo.vb
+E:\PBD\WinFormsApp11\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.vbproj.CoreCompileInputs.cache
